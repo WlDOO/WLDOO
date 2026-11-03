@@ -31,10 +31,6 @@ I'm looking for an **internship in cybersecurity**, particularly penetration tes
 
 > Some security coursework is kept private. I can discuss the technical approach and lessons learned without publishing full challenge solutions.
 
-## Beyond code
-
-I've been a **scout leader for six years**, organizing activities and camps, working with other leaders, and taking responsibility for groups of young people. This experience has strengthened my teamwork, communication and problem-solving skills.
-
 ## Let's connect
 
 I'm open to **cybersecurity internship opportunities**. Feel free to explore my public projects or contact me through GitHub.
