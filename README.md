@@ -4,8 +4,6 @@
 
 Based in Belgium · Interested in offensive security, Linux internals, and low-level programming.
 
-![Profile banner](https://github.com/user-attachments/assets/172493d9-6bcb-4748-846f-ff191790fd0d)
-
 ## About me
 
 I'm currently studying at **42 Belgium**, where I completed the Common Core and moved on to the advanced curriculum. I enjoy understanding how systems work, investigating security weaknesses in authorized lab environments, and building software close to the operating system.
