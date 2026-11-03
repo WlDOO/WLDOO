@@ -1,12 +1,40 @@
-# Hi, I'm WIDOO! 👋
+# Hi, I'm Natan Jeunehomme 👋
 
-![header](https://github.com/user-attachments/assets/172493d9-6bcb-4748-846f-ff191790fd0d)
+**42 Belgium student | Aspiring Cybersecurity & Penetration Testing Intern**
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="bash" width="45" height="45"/>
-</p>
+Based in Belgium · Interested in offensive security, Linux internals, and low-level programming.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WLDOO&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WLDOO&hide_progress=true&theme=radical)
+![Profile banner](https://github.com/user-attachments/assets/172493d9-6bcb-4748-846f-ff191790fd0d)
+
+## About me
+
+I'm currently studying at **42 Belgium**, where I completed the Common Core and moved on to the advanced curriculum. I enjoy understanding how systems work, investigating security weaknesses in authorized lab environments, and building software close to the operating system.
+
+I'm looking for an **internship in cybersecurity**, particularly penetration testing, vulnerability assessment, or Linux security.
+
+## Technical skills
+
+- **Security:** service enumeration, vulnerability analysis, Linux privilege escalation, binary analysis (in training labs)
+- **Programming:** C, C++, x86-64 assembly, Unix system programming
+- **Systems & networking:** Linux, processes, memory, TCP/IP, HTTP, sockets
+- **Infrastructure:** Docker, Docker Compose, virtualization
+
+## Selected projects
+
+| Project | What I worked on |
+| --- | --- |
+| [Boot2Root](https://github.com/WlDOO/boot2root) | Security assessment of an intentionally vulnerable Linux machine: enumeration, exploitation and privilege escalation. |
+| Snow Crash *(private coursework)* | Linux security challenges involving binary analysis, permissions and exploitation techniques. |
+| Woody Woodpacker *(private coursework)* | ELF64 executable structure, binary modification and low-level code. |
+| [Webserv](https://github.com/WlDOO/19_webserver) | HTTP server implementation in C++, exploring networking and client-server behavior. |
+| [Inception](https://github.com/WlDOO/inception) | Multi-service infrastructure using Docker Compose. |
+
+> Some security coursework is kept private. I can discuss the technical approach and lessons learned without publishing full challenge solutions.
+
+## Beyond code
+
+I've been a **scout leader for six years**, organizing activities and camps, working with other leaders, and taking responsibility for groups of young people. This experience has strengthened my teamwork, communication and problem-solving skills.
+
+## Let's connect
+
+I'm open to **cybersecurity internship opportunities**. Feel free to explore my public projects or contact me through GitHub.
